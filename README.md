@@ -15,7 +15,7 @@
 
 # Sprint 1
 
-- Product Backlog
+- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/product_backlog.md)
 - Sprint Backlog
 - Design Documents
   - System Architecture
