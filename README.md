@@ -21,6 +21,7 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 
 - [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/product_backlog.md)
 - [Sprint Backlog](https://www.google.com/search?q=sprint+backlog+examples&tbm=isch)
+  - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart&oq=sprint+burndown+chart)
 - Design Documents
   - System Architecture
   - Class Diagrams
@@ -33,6 +34,7 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 
 - Product Backlog
 - Sprint Backlog
+  - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart&oq=sprint+burndown+chart)
 - Requirements
 - Design Documents
   - System Architecture
@@ -46,6 +48,7 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 
 - Product Backlog
 - Sprint Backlog
+  - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart&oq=sprint+burndown+chart)
 - Requirements
 - Design Documents
   - System Architecture
