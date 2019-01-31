@@ -20,8 +20,9 @@ Your vision statement should contain the following information and be formatted 
 Each item should link to the actual product, be it a google spreadsheet, google doc, github markdown file, etc. Do not link to a markdown file that contains only a link to another location - link directly from the appropriate item below. Add any additional items required for the specific sprint submission.
 
 - [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/product_backlog.md)
-- [Sprint Backlog](https://www.google.com/search?q=sprint+backlog+examples&tbm=isch)
+- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/sprint_backlog.md)
   - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart&oq=sprint+burndown+chart)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/requirements.md)
 - Design Documents
   - System Architecture
   - Class Diagrams
@@ -36,7 +37,7 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 - [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/product_backlog.md)
 - [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/sprint_backlog.md)
   - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart&oq=sprint+burndown+chart)
-- Requirements
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/requirements.md)
 - Design Documents
   - System Architecture
   - Class Diagrams
@@ -49,9 +50,9 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 # Sprint 3
 
 - [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/product_backlog.md)
-- [Sprint Backlog](https://www.google.com/search?q=sprint+backlog+examples&tbm=isch)
+- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/sprint_backlog.md)
   - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart&oq=sprint+burndown+chart)
-- Requirements
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/requirements.md)
 - Design Documents
   - System Architecture
   - Class Diagrams
