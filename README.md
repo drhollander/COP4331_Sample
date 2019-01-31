@@ -34,7 +34,7 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 # Sprint 2
 
 - [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/product_backlog.md)
-- [Sprint Backlog](https://www.google.com/search?q=sprint+backlog+examples&tbm=isch)
+- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/sprint1/sprint_backlog.md)
   - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart&oq=sprint+burndown+chart)
 - Requirements
 - Design Documents
