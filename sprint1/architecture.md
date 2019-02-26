@@ -44,6 +44,8 @@ You should have one or more user interface screens in this section. Each screen 
 
 # Build-vs-Buy Decisions
 
+This section should list the third party libraries your system is using and describe what those libraries are being used for.
+
 # Reuse
 
 # Change Strategy
