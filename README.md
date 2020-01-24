@@ -1,4 +1,4 @@
-# Sample Project for COP 4331 - Spring 2018
+# Sample Project for COP 4331 - Spring 2020
 
 ## Team Members
 
