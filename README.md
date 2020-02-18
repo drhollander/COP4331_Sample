@@ -25,11 +25,7 @@ Each item should link to the actual product, be it a google spreadsheet, google 
 - [Trello Board](https://trello.com/)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- Design Documents
-  - System Architecture
-  - Class Diagrams
-  - Sequence Diagrams
-  - etc.
+- System Architecture
 - Source Code
 - Automated Tests
 - Product Demonstration
@@ -45,11 +41,7 @@ For this first sprint, I am anticipating that you will have selected one or two 
 - [Trello Board](https://trello.com/)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- Design Documents
-  - [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
-  - [Class Diagrams](https://www.google.com/search?tbm=isch&q=class+diagram)
-  - [Sequence Diagrams](https://www.google.com/search?tbm=isch&q=sequence_diagram)
-  - etc.
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
 - Source Code
 - Automated Tests
 - Product Demonstration
@@ -65,11 +57,7 @@ For this sprint, I am anticipating that you will continue to work on the stories
 - [Trello Board](https://trello.com/)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- Design Documents
-  - [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
-  - [Class Diagrams](https://www.google.com/search?tbm=isch&q=class+diagram)
-  - [Sequence Diagrams](https://www.google.com/search?tbm=isch&q=sequence_diagram)
-  - etc.
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
 - [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
 - [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
 - [Product Demonstration](https://www.youtube.com)
@@ -78,17 +66,11 @@ At this point I am expecting that you have designed out a few of the initial use
 
 # Sprint 4
 
-- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint4_backlog.md)
-- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
 - [Trello Board](https://trello.com/)
+- [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
-- Design Documents
-  - [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
-  - [Class Diagrams](https://www.google.com/search?tbm=isch&q=class+diagram)
-  - [Sequence Diagrams](https://www.google.com/search?tbm=isch&q=sequence_diagram)
-  - etc.
+- [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
 - [Source Code](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
 - [Automated Tests](https://github.com/drhollander/COP4331_Sample/blob/master/project/readme.md)
 - [Product Demonstration](https://www.youtube.com)
