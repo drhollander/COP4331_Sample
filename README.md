@@ -22,10 +22,9 @@ As a general note, it is much easier (and less risky) to use inline markdown tex
 
 Each item should link to the actual product, be it a google spreadsheet, google doc, github markdown file, etc. Do not link to a markdown file that contains only a link to another location - link directly from the appropriate item below. Failure to adhere to this criteria wil result in the associated artifact not being graded. Add any additional items required for the specific sprint submission.
 
-- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint1_backlog.md)
+- [Product Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
+- [Sprint Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
 - [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Trello Board](https://trello.com/)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
 - System Architecture
@@ -46,10 +45,9 @@ In this section, each group member needs to provide a brief description of what 
 
 # Sprint 2
 
-- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint2_backlog.md)
+- [Product Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
+- [Sprint Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
 - [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Trello Board](https://trello.com/)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
 - [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
@@ -68,10 +66,9 @@ Member 2 - main tasking
 
 # Sprint 3
 
-- [Product Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/product_backlog.md)
-- [Sprint Backlog](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/sprint3_backlog.md)
+- [Product Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
+- [Sprint Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
 - [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
-- [Trello Board](https://trello.com/)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
 - [System Architecture](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/architecture.md)
@@ -90,7 +87,8 @@ Member 2 - main tasking
 
 # Sprint 4
 
-- [Trello Board](https://trello.com/)
+- [Product Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
+- [Sprint Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
 - [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
@@ -110,7 +108,8 @@ Member 2 - main tasking
 
 # Sprint 5
 
-- [Trello Board](https://trello.com/)
+- [Product Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
+- [Sprint Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
 - [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
@@ -128,7 +127,8 @@ Member 2 - main tasking
 
 # Sprint 6
 
-- [Trello Board](https://trello.com/)
+- [Product Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
+- [Sprint Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
 - [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
@@ -146,7 +146,8 @@ Member 2 - main tasking
 
 # Sprint 7
 
-- [Trello Board](https://trello.com/)
+- [Product Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
+- [Sprint Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
 - [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
@@ -164,7 +165,8 @@ Member 2 - main tasking
 
 # Sprint 8
 
-- [Trello Board](https://trello.com/)
+- [Product Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
+- [Sprint Backlog](https://trello.com/b/6P0P3TpV/cop-4331-sample)
 - [Requirements](https://github.com/drhollander/COP4331_Sample/blob/master/artifacts/requirements.md)
 - [Burndown Chart](https://www.google.com/search?tbm=isch&q=sprint+burndown+chart)
 - [Velocity Chart](https://www.google.com/search?tbm=isch&q=agile+velocity+chart)
